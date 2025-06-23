@@ -51,3 +51,6 @@ mlruns/
 
 # SageMaker
 .sagemaker/
+
+# Backup
+backup/
