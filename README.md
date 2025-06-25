@@ -38,7 +38,7 @@
    - 트래픽 분산 및 가중치 조정
    - 배포된 모델 테스트
 
-### 6. **ML 파이프라인** (`5-pipelines.ipynb`)
+### 6. **ML 파이프라인** (`5-pipelines_preprocess_train_evaluate_batch_transform.ipynb`)
    - SageMaker 파이프라인을 사용한 엔드투엔드 자동화
    - 데이터 전처리, 모델 훈련, 평가, 배포 자동화
    - 조건부 모델 등록
@@ -96,7 +96,7 @@
 3. **모델 훈련**: `2-training.ipynb` 실행
 4. **모델 평가**: `3-model-evaluation.ipynb` 실행
 5. **모델 배포**: `4-test-and-deploy.ipynb` 실행
-6. **파이프라인 구축**: `5-pipelines.ipynb` 실행
+6. **파이프라인 구축**: `5-pipelines_preprocess_train_evaluate_batch_transform.ipynb` 실행
 
 각 노트북은 순차적으로 실행되도록 설계되었으며, 이전 단계의 결과를 다음 단계에서 활용합니다.
 
